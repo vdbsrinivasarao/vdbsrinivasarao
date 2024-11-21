@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">Myself looking for AWSDevops or AZURE Devops positions and ready to take challenges and solve the issues assigned to me within the time limit .At present Iam holding valid H1b visa and ready to shift to USA .</p>
+<p align="left">Myself looking for AWSDevops or AZURE Devops positions and ready to take challenges and solve the issues assigned to me within the time limit .</p>
 
 ###
 
