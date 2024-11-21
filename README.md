@@ -86,6 +86,6 @@
 
 ###
 
-<h3 align="left">Looking for AWSDEvops or AZure Devops positions  .</h3>
+
 
 ###
