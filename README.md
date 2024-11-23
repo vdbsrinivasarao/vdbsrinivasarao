@@ -18,7 +18,7 @@
 
 ###
 
-<h4 align="left">My name is Durga Brahmaji Srinivasa Rao Vazrala (VDB SrinivasaRao) having 10+ years experience in IT and (3+yeras of experience on site(USA) )and 4+ years experience in AWSDevops andAZURE<br>Devops and 20 years experience in Electricity Department as Senior Electrical Engineer . Very strong in Devops both in AWS and AZure clouds ,Terraform,Ansible,Docker ,Jenkins,CI/CD and other tools such as Maven,Git,Sonarqube,Trivy,Promotheous,Grafana,Splunk etc. Strong in shell scripting,Linux OS,Peoplesoft HRMS ,SQL .</h4>
+<h4 align="left">My name is Durga Brahmaji Srinivasa Rao Vazrala (VDB SrinivasaRao) having 10+ years experience in IT and (3+yeras of experience on site(USA) )and 4+ years experience in AWSDevops andAZURE<br>Devops and 10 years experience in Electricity Department as Senior Engineer(IT) . Very strong in Devops both in AWS and AZure clouds ,Terraform,Ansible,Docker ,Jenkins,CI/CD and other tools such as Maven,Git,Sonarqube,Trivy,Promotheous,Grafana,Splunk etc. Strong in shell scripting,Linux OS,Peoplesoft HRMS ,SQL .</h4>
 
 ###
 
